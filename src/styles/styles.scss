@@ -1,0 +1,28 @@
+
+/* Normal version */
+
+$left-col-bg: #5271ff;
+$left-col-text-color: white;
+$left-col-header-color: $left-col-text-color;
+$left-col-subheader-color: $left-col-text-color;
+
+$right-col-bg: #333333;
+$right-col-text-color: white;
+$right-col-header-color: #f67360;
+$right-col-subheader-color: $right-col-text-color;
+
+
+/* Printable version */
+
+$print-left-col-bg: white;
+$print-left-col-text-color: black;
+$print-left-col-header-color: $print-left-col-text-color;
+$print-left-col-subheader-color: $print-left-col-text-color;
+
+$print-right-col-bg: white;
+$print-right-col-text-color: black;
+$print-right-col-header-color: #f67360;
+$print-right-col-subheader-color: $print-right-col-text-color;
+
+@import './cv.scss';
+@import './cv_printable.scss';
