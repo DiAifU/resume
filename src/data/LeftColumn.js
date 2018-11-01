@@ -1,8 +1,10 @@
+import photo from '../../static/photo.png';
+
 export default [
   {
     title: 'Nicolas Montvernay',
     subtitle: 'ENGINEERING STUDENT',
-    image: 'data/photo.png',
+    image: photo,
     headerType: "h2",
     centered: true,
   },

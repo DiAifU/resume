@@ -1,3 +1,5 @@
+import itskills from '../../static/it_skills.svg';
+
 export default [
   {
     title: 'WORK EXPERIENCE',
@@ -63,7 +65,7 @@ export default [
     icon: 'computer',
     content:
       {
-        image: { src: 'data/it_skills.svg', floated: 'left', size: 'medium', className: 'it_skills_img' },
+        image: { src: itskills, floated: 'left', size: 'medium', className: 'it_skills_img' },
         content: [
           'C#, Python, Unix, C, NodeJS, ReactJS',
           '\0',
@@ -73,5 +75,5 @@ export default [
         ]
       }
   },
-  
+
 ];
