@@ -2,14 +2,14 @@ import itskills from '../../static/it_skills.svg';
 
 export default [
   {
-    title: 'WORK EXPERIENCE',
+    title: 'WORK EXPERIENCES',
     icon: 'briefcase',
     content: [
       {
         title: 'Web Engineer Intern - Team Manager',
         subtitle: 'MoneyGoat LLC, New-York | February - September 2018',
         content: [
-          '- Developed a social netwok (Frontend and Backend) using cutting-edge web technologies (NodeJS, ReactJS, Semantic UI and Neo4J)',
+          '- Developed a social network (Frontend and Backend) using cutting-edge web technologies (NodeJS, ReactJS, Semantic UI and Neo4J)',
           '- Managed a team of two people',
           '- Trained future employees at the end of my internship'
         ],
@@ -36,14 +36,13 @@ export default [
       {
         title: 'Solutec Hackaton',
         subtitle: 'Second place of Hackaton | June 2016',
-        content: 'We developped, during a 24 hours competition, a software able to analyze a video stream from a street camera and report the amount and location of available parking places in a mobile application.'
+        content: 'We developed, during a 24 hours competition, a software able to analyze a video stream from a street camera and report the amount and location of available parking places in a mobile application.'
       },
     ]
   },
   {
     title: 'EDUCATION',
     icon: 'book',
-    // icon: 'book',
     content: [
       {
         title: 'CPE Lyon Engineering School  -  Master degree',
@@ -56,7 +55,7 @@ export default [
       {
         title: 'Classes Préparatoires CPE Lyon',
         subtitle: 'Class of 2015',
-        content: 'Two years of higher education in mathematics and physics in preparation for entry to engineering school CPE Lyon, at Lycée Les Chartreux'
+        content: 'Two years of higher education in mathematics and physics, in preparation for entry to engineering school CPE Lyon, at Lycée Les Chartreux'
       },
     ]
   },
@@ -67,9 +66,9 @@ export default [
       {
         image: { src: itskills, floated: 'left', size: 'medium', className: 'it_skills_img' },
         content: [
-          'C#, Python, Unix, C, NodeJS, ReactJS',
+          'C#, Python, Unix, C, NodeJS, ReactJS, ROS',
           '\0',
-          'ROS, Java, Objective-C, Matlab, C++, CSS3',
+          'Java, Objective-C, Matlab, C++, CSS3',
           '\0',
           'PHP, SQL, Assembly',
         ]

@@ -1,5 +1,5 @@
 
-/* Normal version */
+
 
 $left-col-bg: #5271ff;
 $left-col-text-color: white;
@@ -10,9 +10,9 @@ $right-col-bg: #333333;
 $right-col-text-color: white;
 $right-col-header-color: #f67360;
 $right-col-subheader-color: $right-col-text-color;
+/* Normal version */
 
 
-/* Printable version */
 
 $print-left-col-bg: white;
 $print-left-col-text-color: black;
@@ -23,6 +23,7 @@ $print-right-col-bg: white;
 $print-right-col-text-color: black;
 $print-right-col-header-color: #f67360;
 $print-right-col-subheader-color: $print-right-col-text-color;
+/* Printable version */
 
 @import './cv.scss';
 @import './cv_printable.scss';

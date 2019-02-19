@@ -11,7 +11,7 @@ export default [
   {
     title: "Main Objective",
     icon: 'chess pawn',
-    content: "I am a ambitious engineering student passionnate about cutting-edge technologies. I am a self-taught developer since the age of 13 and passionnate about electronics and robotics.",
+    content: "I am an ambitious engineering student passionnate about cutting-edge technologies. Self-taught developer since the age of 13, I have learnt electronics and robotics during my years at CPE Lyon.",
   },
   {
     title: "Languages",
