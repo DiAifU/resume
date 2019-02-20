@@ -10,7 +10,7 @@ const Resume = () => (
   <Container>
     <div className="cv_print_container" style={{ textAlign: "center" }}>
       <br />
-      <a onClick={window.print} href="#">
+      <a href="Resume_Nicolas_Montvernay.pdf">
         <Icon name="print" size="big" />
         This Resume is available in printable version to reduce its environmental impact
       </a>
