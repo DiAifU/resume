@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 import "semantic-ui-css/semantic.min.css";
 import "./styles/styles.scss";
 //import '../semantic/dist/semantic.min.css';
-require("./favicon.ico"); // Tell webpack to load favicon.ico
+// require("./favicon.ico"); // Tell webpack to load favicon.ico
 import Routes from './Routes';
 
 
