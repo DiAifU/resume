@@ -15,7 +15,7 @@ export function Education() {
         <SectionCategoryTitle>
           CPE Lyon Engineering School - <br /> Master degree
         </SectionCategoryTitle>
-        <SectionCategorySubTitle>Class of 2020</SectionCategorySubTitle>
+        <SectionCategorySubTitle>Class of 2019</SectionCategorySubTitle>
         <SectionCategoryContent>
           <ul className="list-disc">
             <li>Software Development</li>

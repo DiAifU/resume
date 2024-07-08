@@ -7,7 +7,7 @@ import { AboutMe } from "./AboutMe.tsx";
 
 function App() {
   return (
-    <div className="container max-w-[1024px] mx-auto p-6">
+    <div className="w-[960px] mx-auto p-6">
       <Header />
       <div className="flex justify-between border-y py-4 mb-8 gap-10">
         <AboutMe />

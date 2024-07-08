@@ -34,5 +34,5 @@ export function SectionCategoryContent({
 }: {
   children: React.ReactNode;
 }) {
-  return <div className="ml-8">{children}</div>;
+  return <div className="ml-8 mt-2">{children}</div>;
 }
